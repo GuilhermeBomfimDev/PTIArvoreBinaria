@@ -1,7 +1,13 @@
-# Projeto: Estrutura de Dados - SENAC
-# Professor: FABIO APARECIDO GAMARRA LUBACHESKI
+# Produção Textual Individual - SENAC
 
--> Configuração das pastas
+## Descrição
+<ul>
+  <li>Disciplina: Estrutura de Dados</li>
+  <li>Professor: FABIO APARECIDO GAMARRA LUBACHESKI</li>
+  <li>Terceiro Semestre</li>
+</ul>
+
+## Configuração das pastas
 
 ### Program 
 /src > /app > Program.java - Código Main
